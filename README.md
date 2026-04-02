@@ -9,27 +9,11 @@
 </a>  
 
 
-### Glad to see you here!  
-I'm Full-Stack Developer currently working with Java, Spring and Angular. I'm from Brazil and have a bachelor degree in Mechanical Engineering, however I realized that my passion is to develop Web Applications. Outside of work I have a beautiful wife and love playing games and learn new things.  
-  
-
-## Languages and Tools  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/>  
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50"/> 
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="MySQL" height="50"/>  
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MySQL" height="50"/>  
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"/>  
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>  
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50"/>  
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>  
-</div>  
-  
-<br />
+### Software Engineer | Java • Spring • Distributed Systems 
+Software Engineer based in Germany, specializing in Java and Spring, with experience designing and building scalable backend systems and modern web applications using Angular.
+Background in Mechanical Engineering with a strong transition into software development, driven by a focus on performance, reliability, and clean architecture.
+Currently deepening expertise in:
+   - Low-latency systems and concurrency
+   - Distributed architectures and event-driven systems
+   - Financial Engineering (MScFE – WorldQuant University)
+My goal is to apply strong engineering principles to high-performance environments such as banking, fintech, and trading systems.
